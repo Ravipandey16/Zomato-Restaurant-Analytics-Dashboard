@@ -32,11 +32,16 @@ Data visualization: Developed various visualizations to represent the Pune resta
 
 The key outcomes of this analysis include:
 
-* Restaurant Performance: Clear insights into which restaurants achieve the highest levels of customer satisfaction, as indicated by ratings, votes, and review percentages.
-* Cost-Effectiveness: An understanding of the relationship between the cost for two and overall customer satisfaction.
-* Service Impact: An examination of how services such as free parking, live music, and alcohol availability affect customer ratings and reviews.
-* Cuisine Preferences: A comparison of the various cuisines offered by each restaurant and their respective popularity among customers.
-* Review Distribution: An analysis of the distribution of 5-star, 4-star, and other ratings for each restaurant, providing insights into overall customer sentiment.
+Restaurant Performance:
+  * Clear insights into which restaurants achieve the highest levels of customer satisfaction, as indicated by ratings, votes, and review percentages.
+Cost-Effectiveness:
+  * An understanding of the relationship between the cost for two and overall customer satisfaction.
+Service Impact:
+  * An examination of how services such as free parking, live music, and alcohol availability affect customer ratings and reviews.
+Cuisine Preferences:
+  * A comparison of the various cuisines offered by each restaurant and their respective popularity among customers.
+Review Distribution:
+  * An analysis of the distribution of 5-star, 4-star, and other ratings for each restaurant, providing insights into overall customer sentiment.
 
 
                                             Challenges
@@ -44,7 +49,7 @@ The key outcomes of this analysis include:
 * Subjective Ratings: Customer ratings and reviews are inherently subjective; while they offer valuable insights, they can be influenced by individual preferences and biases.
 * Service Comparisons: Not all services are directly comparable across restaurants, as some features (e.g., live music, home delivery) may not be offered by all establishments, limiting the effectiveness of direct comparisons.
 * Missing Data: Certain service features, such as Wi-Fi or free parking, may not apply to all restaurants, and failing to account for these gaps can distort the analysis.
-* Analysis Limitations: The variability in available services and subjective nature of customer feedback may affect the overall reliability and accuracy of the insights drawn from the data.
+* Analysis Limitations: The variability in available services and the subjective nature of customer feedback may affect the overall reliability and accuracy of the insights drawn from the data.
 
                                             Final Report
 The final report will include:
