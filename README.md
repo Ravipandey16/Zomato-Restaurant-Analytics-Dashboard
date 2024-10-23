@@ -11,11 +11,15 @@ The primary objectives of this project are:
                                          Tasks
 Data Collection and Preparation:
   * Collected data for each restaurant, including ratings, reviews, service features, and contact information.
+
   * Cleaned the dataset by addressing missing values and adjusting data types where necessary.
+
   * Organized the data into a structured table format, ensuring each column is correctly categorized (e.g., numerical values for ratings and votes, text for cuisine types).
 
 
+
 Data visualization: Developed various visualizations to represent the Pune restaurant data:
+
   * Pie Charts: Analyzed the availability of home delivery services across different restaurants.
   * Map Charts: Illustrated the number of restaurants located in various areas.
   * Area Charts: Displayed the distribution of restaurant payment methods, including cash, digital payments, and meal coupons.
@@ -34,22 +38,33 @@ The key outcomes of this analysis include:
 
 Restaurant Performance:
   * Clear insights into which restaurants achieve the highest levels of customer satisfaction, as indicated by ratings, votes, and review percentages.
+
 Cost-Effectiveness:
   * An understanding of the relationship between the cost for two and overall customer satisfaction.
+
 Service Impact:
   * An examination of how services such as free parking, live music, and alcohol availability affect customer ratings and reviews.
+
 Cuisine Preferences:
   * A comparison of the various cuisines offered by each restaurant and their respective popularity among customers.
+
 Review Distribution:
   * An analysis of the distribution of 5-star, 4-star, and other ratings for each restaurant, providing insights into overall customer sentiment.
 
 
                                             Challenges
   
-* Subjective Ratings: Customer ratings and reviews are inherently subjective; while they offer valuable insights, they can be influenced by individual preferences and biases.
-* Service Comparisons: Not all services are directly comparable across restaurants, as some features (e.g., live music, home delivery) may not be offered by all establishments, limiting the effectiveness of direct comparisons.
-* Missing Data: Certain service features, such as Wi-Fi or free parking, may not apply to all restaurants, and failing to account for these gaps can distort the analysis.
-* Analysis Limitations: The variability in available services and the subjective nature of customer feedback may affect the overall reliability and accuracy of the insights drawn from the data.
+Subjective Ratings: 
+  * Customer ratings and reviews are inherently subjective; while they offer valuable insights, they can be influenced by individual preferences and biases.
+
+Service Comparisons: 
+  * Not all services are directly comparable across restaurants, as some features (e.g., live music, home delivery) may not be offered by all establishments, limiting the effectiveness of direct comparisons.
+
+Missing Data: 
+  * Certain service features, such as Wi-Fi or free parking, may not apply to all restaurants, and failing to account for these gaps can distort the analysis.
+
+Analysis Limitations: 
+  * The variability in available services and the subjective nature of customer feedback may affect the overall reliability and accuracy of the insights drawn from the data.
 
                                             Final Report
 The final report will include:
